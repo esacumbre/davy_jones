@@ -32,6 +32,10 @@ uvag: qnil wbarf pbzznaqf gur frnf, n ornfg vafvqr urnqf uvf qrperrf. jura vg'f 
 rw1YjDkc+Aaf1KMS/4MS1a+FsF94sQV7jYFoRlA1it1A06SPOPYfXseezrOFzmcyC4A2wnZH7algBV+CKRv9seG4zuGCV9nE39wbygUS2rhjJAghTEWUQc6LJ3nJlUnzEtClMH0YEo3rJzjgktJrdwBkeGXZc5yY2brl3pE/xqFJdwMQDUpf6eDxZZIhgmaJKVlWJhixYPVVCvo1KtdzbOG+c6rjEevhl8u2yB6NqLVqvRfWRjSHcVzVCIQLY33vJNtZBukEbDZnqXpXc+zbmuqepkpjW593mNZb/7IwIXk=
 ```
 
-
+# Step 3: Solve Clue 1
+Caesar Cipher with rot 13
+```
+rot: 13 string: hint: davy jones commands the seas, a beast inside heads his decrees. when it's released, the dutchman sings. command this beast like a king and this part you shall win.
+```
 
 
